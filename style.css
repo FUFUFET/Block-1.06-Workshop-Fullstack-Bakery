@@ -8,8 +8,9 @@ body {
 
 header {
   margin: 1rem;
-  /* display: flex;
-  flex-direction: row; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 .brand {
   font-size: 2rem;
@@ -20,7 +21,9 @@ nav {
 
   justify-content: space-around;
 }
-
+nav > a {
+  margin: 0.3rem;
+}
 main {
   margin: 1rem;
   display: flex;

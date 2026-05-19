@@ -35,7 +35,7 @@ but be creative and make it your own!
 <!-- 8. The footer has a different background color from the rest of the page.
 9. The contrast ratios of all text on the page pass WCAG AA standards. -->
 
-10. Flexbox is used to style the header as a horizontal navbar.
+<!-- 10. Flexbox is used to style the header as a horizontal navbar. -->
 <!-- 11. Flexbox is used to style the aside as a vertical sidebar. -->
 
 > [!TIP]
